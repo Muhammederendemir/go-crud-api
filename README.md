@@ -16,25 +16,25 @@ go build
 go run main.go
 ```
 
-## 📌 Get Movies Service
+## 📌 Get Movies Service 
 
-* http://localhost:8080/movies  GET
-f
+* http://localhost:8080/movies  
+
 ## 📌 Get Movie Service
 
-* http://localhost:8080/movies/{id} GET
+* http://localhost:8080/movies/{id} 
 
 ## 📌 Create Movie Service
 
-* http://localhost:8080/movies/  POST
+* http://localhost:8080/movies/  
 
 ## 📌 Update Movie Service
 
-* http://localhost:8080/movies/{id} UPDATE
+* http://localhost:8080/movies/{id} 
 
 ## 📌 Delete Movie Service
 
-* http://localhost:8080/movies/{id} DELETE
+* http://localhost:8080/movies/{id} 
 
 ## 📌 Request Body
 
