@@ -1,6 +1,6 @@
 # 🎯 Go CRUD API
 
-<img src="https://github.com/Muhammederendemir/go-crud-api/blob/main/image/go-wall.jpg">
+<img src="https://github.com/Muhammederendemir/go-crud-api/blob/main/image/go-crud-api.jpg">
 
 ## 📌 Case
 
