@@ -47,6 +47,14 @@ f
     }
 }
 
+## 📌 Packages
+
+- encoding/json
+- math/rand  
+- net/http
+- strconv
+- github.com/gorilla/mux
+
 ## 📌 Reources
 * https://www.youtube.com/watch?v=jFfo23yIWac&ab_channel=freeCodeCamp.org
 
