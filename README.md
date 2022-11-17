@@ -38,6 +38,7 @@ go run main.go
 
 ## 📌 Request Body
 
+```JSON
 {
     "isbn": "164",
     "title": "Inception",
@@ -46,6 +47,7 @@ go run main.go
         "lastname": "Nolan"
     }
 }
+```
 
 ## 📌 Packages
 
